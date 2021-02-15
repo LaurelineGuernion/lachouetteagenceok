@@ -569,6 +569,7 @@ blockquote {
     width: 100%;
     font-weight: bold;
     font-style: italic;
+    font-size: 1.4em;
     border: none;
     color: #6B6B6B;
 }
