@@ -567,6 +567,7 @@ h1, h4 {
 
 blockquote {
     width: 100%;
+    font-weight: bold;
     font-style: italic;
     border: none;
     color: #6B6B6B;
